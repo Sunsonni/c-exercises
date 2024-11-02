@@ -76,4 +76,8 @@ dist-ssr
 *.sln
 *.sw?
 
+*/bin/
+*/obj/
+
+
 .fake
